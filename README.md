@@ -1,3 +1,3 @@
 # wolfieorama.github.io
 
-MMy Personal site and profile
+My Personal site and profile
