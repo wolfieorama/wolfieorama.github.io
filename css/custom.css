@@ -1,5 +1,15 @@
 h1{
-  color: black;
+  color: white;
+}
+
+#sf{
+  height: 100px;
+  width: 200px;
+}
+
+#github{
+  height: 100px;
+  width: 200px;
 }
 
 #maindiv{
