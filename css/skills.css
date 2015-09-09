@@ -9,7 +9,7 @@
 }
 
 .col {
-    width: 280px;
+    width: 350px;
 }
 
 #skill {
@@ -53,23 +53,43 @@
     -webkit-animation: css3 2s ease-out;
 }
 
-.jquery {
+.javascript {
     width: 50%;
     -moz-animation: jquery 2s ease-out;
     -webkit-animation: jquery 2s ease-out;
 }
 
-.photoshop {
+.java {
     width: 50%;
     -moz-animation: photoshop 2s ease-out;
     -webkit-animation: photoshop 2s ease-out;
 }
 
-.dreamweaver {
+.ruby {
     width: 100%;
     -moz-animation: dreamweaver 2s ease-out;
     -webkit-animation: dreamweaver 2s ease-out;
 }
+
+.rails {
+    width: 90%;
+    -moz-animation: dreamweaver 2s ease-out;
+    -webkit-animation: dreamweaver 2s ease-out;
+}
+
+.apex {
+    width: 50%;
+    -moz-animation: dreamweaver 2s ease-out;
+    -webkit-animation: dreamweaver 2s ease-out;
+}
+
+.visualforce {
+    width: 70%;
+    -moz-animation: dreamweaver 2s ease-out;
+    -webkit-animation: dreamweaver 2s ease-out;
+}
+
+
 
 @-moz-keyframes html5 {
     0% {
