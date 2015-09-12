@@ -17,7 +17,15 @@ h1{
 }
 
 #skills{
-  background-color: white;
+  background-color: #cbcbcd;
+}
+
+#portfolio{
+  background-color: #cbcbcd;
+}
+
+#social{
+  background-color: #cbcbcd;
 }
 
 #github{
