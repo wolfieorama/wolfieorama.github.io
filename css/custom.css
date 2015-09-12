@@ -1,3 +1,6 @@
+footer{
+  background-color: gray;
+}
 h3{
   font-style: italic;
 }
@@ -27,7 +30,7 @@ h1{
 }
 
 .divider{
-  background-color: black;
+  background-color: gray;
   height: 20px;
 }
 
