@@ -1,4 +1,6 @@
-
+body{
+  background-color:  #cbcbcd;
+}
 
 footer{
   background-color: gray;
@@ -24,6 +26,7 @@ h1{
 
 #portfolio{
   background-color: #cbcbcd;
+  margin-bottom: 40px;
 }
 
 #social{
@@ -37,6 +40,14 @@ h1{
 #github{
   height: 100px;
   width: 110px;
+}
+#sf{
+  width: 140px;
+  height: 70px;
+}
+#git{
+  width: 80px;
+  height: 60px;
 }
 
 #maindiv{
