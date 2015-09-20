@@ -36,7 +36,7 @@
           <ul class="bmenu">
             <li><a href="#skills">Skills</a></li>
             <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#email">Get in touch</a></li>
+            <li><a href="#emailsec">Get in touch</a></li>
             <li><a href="#social">Social</a></li>
           </ul>
         </div>
@@ -146,20 +146,20 @@
      <div class="divider"></div>
    </div>
 
-      <div id="email" class="row">
+      <div id="emailsec" class="row">
         <div class="col-md-1"></div>
         <div class="col-md-10">
           <h1 style="color: black; text-align: center;">Drop me a line</h1>
           <br>
           <br>
-          <form class="form-horizontal">
-            <input type="text" class="form-control" placeholder="Name..">
+          <form id="contact_form" class="form-horizontal">
+            <input id="name" type="text" class="form-control" placeholder="Name..">
             <br>
-            <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+            <input id="email" type="email" class="form-control" placeholder="Email">
             <br>
-            <textarea class="form-control" rows="3"></textarea>
+            <textarea id="msg" class="form-control" rows="3"></textarea>
             <br>
-            <input class="btn btn-default" href="mailto:wachirawamunyi@gmail.com" type="submit" value="Submit" style="color: green;">
+            <input class="btn btn-default" type="submit" style="color: green;">
 
           </form>
           <br>
@@ -213,5 +213,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/scroll.js"></script>
+    <script src="js/mailer.js"></script>
   </body>
 </html>
